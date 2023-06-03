@@ -3,6 +3,8 @@
 
 **zhang-glitch/zhang-glitch** is a ✨ 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 ✨ working in front end development.
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhang-glitch&show_icons=true&hide_border=true">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Xiamen, China.
@@ -16,4 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhang-glitch&show_icons=true&hide_border=true">
